@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+n1 {
+    margin: 20px;
+}
+
+fieldset {
+    margin: 20px;
+    padding: 20px;
+}
+
+textarea {
+    width: 50%;
+    height: 200px;
+    padding: 10px;
+    resize: none;
+}
